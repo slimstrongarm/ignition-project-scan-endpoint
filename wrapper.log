@@ -1,0 +1,3 @@
+FATAL  | wrapper  | 2025/05/31 13:41:03 | Unable to open configuration file: start (No such file or directory)
+FATAL  | wrapper  | 2025/05/31 13:41:03 |   Current working directory: /usr/local/ignition
+FATAL  | wrapper  | 2025/05/31 13:41:03 |   The Wrapper will stop.
